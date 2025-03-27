@@ -22,5 +22,32 @@ Solo habrían constantes en la resistencia de un conductor donde los materiales 
 #### 1. Ley de ohm: $V=IR$
 #### 2. Factor de potencia: $Fp=cos(phi)$
 #### 3. Resistencia de un Conductor:
-#### 4. Resistencia para un LED:
+ $R= R_0[1+a(t-t_0)]$ donde R es la resistencia a la temperatura $t$.
+
+$R_0$ es la resistencia a la temperatura de referencia $20°C$.
+
+t es la temperatura a la que queremos calcular el valor de la resistencia.
+
+$t_0$ es $20°C$
+
+#### 4. Resistencia para un LED: 
+
+$V_r=V_i-Vled$
+
+$V_i=Vled+V_r$ donde $Vi$ es la tension de alimentacion.
+
+$Vled$ es el voltaje en el led.
+
+$V_r$ es voltaje en la resistencia.
+
+$R=V_r/I_t$ Donde $I_t$ es la corriente en la resistencia, $R$ el valor de la resistencia.
+
+$P_t=V_i*I_t$
+
+Donde $P_t$ es la potencia total, $V_i$ es el voltaje de la fuente, $I_t$ es la corriente en la resistencia.
+
+$P_r=R*(I_t)^2$
+
+Donde $R$ es el valor de la resistencia, $(I_t)^2$ es la corriente en la resistencia y $P_r$ es la potencia en la resistencia.
+
 ### - Estructuras de control
