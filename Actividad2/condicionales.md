@@ -16,3 +16,14 @@
 ![alt text](image-4.png)
 
 # 10. Ejercicios Propuestros
+1. **Condicional doble**: Escribe un programa que pregunte la edad y te indique si eres mayor o menor de edad.
+
+![alt text](image-5.png)
+
+2. **`if-else if-else`**: Crea un programa que evalúe la calificación de un alumno (0-5) e imprima: "Insuficiente", "Aceptable", "Sobresaliente", etc.
+
+![alt text](image-6.png)
+
+3. **Menú repetitivo**: Implementa un menú con al menos **cuatro** opciones y un bucle que permita seleccionar repetidamente cualquier opción hasta que se elija "Salir".
+
+![alt text](image-7.png)
