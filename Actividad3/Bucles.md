@@ -17,14 +17,28 @@ __While hace indefinidamente un codigo hasta que se cumpla una condicion mientra
 # 6. Ejercicios Propuestos
 1. **Contador de 1 a 10 con `while`**
     - Muestra por pantalla los números del 1 al 10 usando un bucle `while`.
+
+![alt text](image.png)
+
 2. **Menú Interactivo con `do-while`**
     - Muestra un menú de opciones (e.g., "Sumar", "Restar", "Salir").
     - Utiliza `do-while` para que el menú aparezca **al menos una vez**.
     - Pide al usuario que seleccione una opción y ejecuta la acción correspondiente.
+
+![alt text](image-1.png)
+
 3. **Tablas de Multiplicar con `for`**
     - Crea un programa que muestre la tabla de multiplicar de un número ingresado.
     - Utiliza un bucle `for` para iterar desde 1 hasta 10.
+
+![alt text](image-2.png)
+
 4. **Búsqueda de Mínimo con `for`**
     - Pide al usuario que ingrese 5 números.
     - Encuentra y muestra el **valor mínimo** usando un bucle `for`.
+
+![alt text](image-3.png)
+
 5. **Ejemplo Avanzado**: Calcular la **media** (promedio) de un conjunto de números usando `while` o `for`.
+__Si no hacía suma=0 me daba valores incorrectos__
+![alt text](image-4.png)
