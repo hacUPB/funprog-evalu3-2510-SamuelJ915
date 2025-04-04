@@ -21,13 +21,20 @@ __Esto es una funcion void y los valores de esta no se reutilizan en alguna otra
 2. **Funciones de biblioteca**
     - Utiliza la función `sqrt()` de la biblioteca `<math.h>` para calcular la raíz cuadrada de un número ingresado por el usuario.
     - Verifica que el número sea positivo; si es negativo, muestra un mensaje de error.
+
+![alt text](image-1.png)
+
 3. **Pasar parámetros**
     - Crea una función que reciba dos números y devuelva el **máximo** de ambos.
     - Muestra el resultado en `main()`.
+
+![alt text](image-2.png)
+
 4. **Funciones en archivos separados**
     - Crea un archivo `.c` que defina una función `restar(int a, int b)`.
     - Crea otro archivo `.h` que contenga el prototipo de `restar()`.
     - En tu `main.c`, incluye el `.h`, llama a `restar()` y muestra el resultado.
+
 5. **Funciones Recursivas (Tema Avanzado)**
     - Crea una función `factorial(int n)` que calcule el factorial de `n` usando recursividad.
     - Añade una condición para terminar la recursión cuando `n <=`
