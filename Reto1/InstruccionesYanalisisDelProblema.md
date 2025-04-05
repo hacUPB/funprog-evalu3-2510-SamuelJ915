@@ -50,4 +50,16 @@ $P_r=R*(I_t)^2$
 
 Donde $R$ es el valor de la resistencia, $(I_t)^2$ es la corriente en la resistencia y $P_r$ es la potencia en la resistencia.
 
+// Conexion serie
+(V_fuente - (num_leds * V_led)) / I_led_A;
+        ITotal = I_led_A;
+    
+// Conexion en paralelo
+        R = (V_fuente - V_led) / (num_leds * I_led_A);
+        ITotal = num_leds * I_led_A;
+
 ### - Estructuras de control
+
+__Switch-case__
+__if-else__
+__while, for y do-while__
